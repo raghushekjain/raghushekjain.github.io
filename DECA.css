@@ -1,0 +1,55 @@
+body {
+	background: url('library.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.photo {
+	color: white;
+	font-family: 'Comfortaa', sans-serif;
+	font-size: 13px;
+	
+	padding: 8px;
+	margin-top: 5px;
+
+}
+
+
+
+.title {
+	font-weight: 850;
+	font-family: 'Comfortaa', sans-serif;
+	color: black;
+	text-align: center;
+}
+
+.home {
+
+	font-family: 'Comfortaa', sans-serif;
+	background: #666768;
+	
+	padding: 5px;
+	color: white;
+	display: inline-block;
+
+	
+}
+
+.what {
+	color: white;
+	font-family: 'Comfortaa', sans-serif;
+	margin-left: 250px;
+
+}
+
+.talk {
+	background: #e6e6e6;
+	color: black;
+	font-family: 'Comfortaa', sans-serif;
+	margin-left: 250px;
+	margin-right: 300px;
+	font-size: 14px;
+}
+
